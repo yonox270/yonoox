@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/legal/(.*)",
+      "destination": "/legal/$1"
+    }
+  ]
+}
