@@ -2,7 +2,7 @@
 
 client_id = "d6450eb43940fdb3c03b828a376d552a"
 name = "YONOOX"
-application_url = "https://example.com"
+application_url = "https://lying-connect-reel-differential.trycloudflare.com"
 embedded = true
 
 [build]
@@ -21,6 +21,6 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://yonoox.vercel.app/auth/callback",
-  "https://yonoox.vercel.app/auth/shopify/callback"
+  "https://lying-connect-reel-differential.trycloudflare.com/auth/callback",
+  "https://lying-connect-reel-differential.trycloudflare.com/auth/shopify/callback"
 ]
