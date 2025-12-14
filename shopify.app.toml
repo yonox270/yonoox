@@ -2,7 +2,7 @@
 
 client_id = "d6450eb43940fdb3c03b828a376d552a"
 name = "YONOOX"
-application_url = "https://yonoox.vercel.app"
+application_url = "https://example.com"
 embedded = true
 
 [build]
