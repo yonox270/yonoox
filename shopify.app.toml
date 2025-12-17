@@ -2,7 +2,7 @@
 
 client_id = "d6450eb43940fdb3c03b828a376d552a"
 name = "YONOOX"
-application_url = "https://represents-disclaimers-measured-offered.trycloudflare.com"
+application_url = "https://clownfish-app-x2w8l.ondigitalocean.app"
 embedded = true
 
 [build]
@@ -21,6 +21,6 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://represents-disclaimers-measured-offered.trycloudflare.com/auth/callback",
-  "https://represents-disclaimers-measured-offered.trycloudflare.com/auth/shopify/callback"
+  "https://clownfish-app-x2w8l.ondigitalocean.app/auth/callback",
+  "https://clownfish-app-x2w8l.ondigitalocean.app/auth/shopify/callback"
 ]
